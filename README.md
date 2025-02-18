@@ -1,4 +1,4 @@
-## Hi there, my name is Fabian and this is going to be a great place!! 👋
+## Hi there, my name is Fabian!! 👋
 
 <!--
 **Faby-py/Faby-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
